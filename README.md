@@ -14,7 +14,7 @@ Most notable for having all-vs-one (wall) and one-vs-all (sweeper) calcs.
 Instructions
 ------------
 
-Run `npm run compile` and then open (double-click) `dist/index.html` in your browser.
+Run `npm install && npm run compile` and then open (double-click) `dist/index.html` in your browser.
 
 Credits and license
 -------------------
